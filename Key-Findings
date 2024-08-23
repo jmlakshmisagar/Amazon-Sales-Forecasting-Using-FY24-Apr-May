@@ -1,0 +1,20 @@
+key-findings
+
+	1.expedited -  the shipment will be delivered more quickly than regular shipping, often with a higher priority
+	
+	2.ordered_date - clusted dates of ordered
+	
+	3.city - ordered items(category)
+	
+	4.succesfully_shipped - city(category-wise)
+	
+	5.high demand category of  perticular city
+	
+	6.most sold Style
+	
+	7.avg sell of each city in a perticular date
+	
+	8.B2B business in a perticular city
+	
+	9.wordCloud formation
+	
